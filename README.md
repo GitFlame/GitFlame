@@ -84,7 +84,7 @@ A sleek and functional digital timer application with customizable features and 
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitFlame)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-jha-810/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhamanohar810@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhamanohar810@gmail.com)
 
 </div>
 
@@ -102,3 +102,4 @@ A sleek and functional digital timer application with customizable features and 
 
 
 ⭐️ **If you find my projects interesting, don't forget to star them!** ⭐️
+
