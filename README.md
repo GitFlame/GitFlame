@@ -100,6 +100,4 @@ A sleek and functional digital timer application with customizable features and 
 
 ---
 
-
 ⭐️ **If you find my projects interesting, don't forget to star them!** ⭐️
-
