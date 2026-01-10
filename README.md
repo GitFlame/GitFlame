@@ -8,11 +8,11 @@
 
 I'm a passionate developer who loves turning ideas into reality through code. From building streaming platforms to creating data validation systems, I enjoy tackling diverse challenges across the tech stack.
 
-- 🔭 I'm currently working on **Data Quality Guardian** - an automated validation toolkit
-- 🌱 I'm constantly learning new technologies and best practices
-- 🎮 I love building games and interactive experiences
-- 💡 Always open to collaborating on interesting projects
-- ⚡ Fun fact: I believe good code is like a good joke - if you have to explain it, it's probably not that good!
+- 🔭 I'm currently working on **Data Quality Guardian** - an automated validation toolkit  
+- 🌱 I'm constantly learning new technologies and best practices  
+- 🎮 I love building games and interactive experiences  
+- 💡 Always open to collaborating on interesting projects  
+- ⚡ Fun fact: I believe good code is like a good joke - if you have to explain it, it's probably not that good!  
 
 ## 🛠️ Tech Stack
 
@@ -40,49 +40,30 @@ An intelligent data validation and quality assurance system built with Python. A
 ### 📺 [Hotstar Clone](https://github.com/GitFlame/Hotstar-clone)
 A fully responsive streaming platform clone with modern UI/UX design. Features include user authentication, video streaming, and dynamic content management.
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
 ### 🎮 [Rock Paper Scissors Game](https://github.com/GitFlame/Game)
-An interactive Rock Paper Scissors game with engaging gameplay mechanics. Perfect for quick entertainment and showcasing game development skills.
+An interactive Rock Paper Scissors game with engaging gameplay mechanics.
 
-**Tech Stack:** `Java` `Game Development` `Object-Oriented Programming`
+**Tech Stack:** `Java` `OOP` `Game Development`
 
 ### ⏰ [Digital Timer](https://github.com/GitFlame/Digital_Timer)
-A sleek and functional digital timer application with customizable features and intuitive user interface.
+A sleek and functional digital timer application with an intuitive interface.
 
-**Tech Stack:** `Java` `GUI Development` `User Experience`
+**Tech Stack:** `Java` `GUI Development`
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=GitFlame&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitFlame&show_icons=true&theme=radical&hide_border=true
-)" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitFlame&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitFlame&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitFlame&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ## 🌟 What I'm Up To
 
-- 🔨 Building robust data validation systems
-- 📚 Exploring new frameworks and technologies
-- 🎯 Contributing to open-source projects
-- 💼 Looking for exciting collaboration opportunities
+- 🔨 Building data validation systems  
+- 📚 Learning new frameworks and AI tools  
+- 🎯 Contributing to open source  
+- 💼 Open to serious collaboration  
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitFlame)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-jha-810/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhamanohar810@gmail.com)
@@ -92,14 +73,13 @@ A sleek and functional digital timer application with customizable features and 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GitFlame&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GitFlame&color=blueviolet&style=for-the-badge" />
 </div>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
 
 ---
 
-⭐️ **If you find my projects interesting, don't forget to star them!** ⭐️
-
+⭐️ If you find my projects interesting, don’t forget to star them!
