@@ -55,7 +55,8 @@ A sleek and functional digital timer application with customizable features and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitFlame&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=GitFlame&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitFlame&show_icons=true&theme=radical&hide_border=true
+)" />
 </div>
 
 <div align="center">
@@ -101,3 +102,4 @@ A sleek and functional digital timer application with customizable features and 
 ---
 
 ⭐️ **If you find my projects interesting, don't forget to star them!** ⭐️
+
